@@ -1,139 +1,92 @@
-body { 
-
+body {
     background-image: url('képek/háttér.webp');
     font-family: sans-serif;
-
 }
 
-
 .focim {
-
     color: gold;
     font-family: sans-serif;
     font-size: 70px;
-
-
     position: relative;
     text-align: center;
     top: 35px;
-
 }
 
 .alcim {
-
     font-family: sans-serif;
     color: goldenrod;
-    
     text-align: center;
 
 }
 
-
-
-
 .nyitvatartas {
-
     color: white;
     font-family: sans-serif;
     font-size: 40px;
-
     width: 350px;
-    height:370px;
-
+    height: 370px;
     background-color: rgba(255, 255, 255, 0.5);
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-    padding-top: 1;
-    
     border-radius: 30px;
-
-    
     text-align: center;
     margin: auto;
-    
-
-    
-
 }
 
-
 .nap {
-
     color: gold;
-
 }
 
 .zarva {
-
     color: red;
-
 }
 
 .sav {
-
     position: relative;
-    
-
-
     background-color: rgba(206, 178, 24, 0.4);
     height: 100px;
     width: 100%;
-
     position: fixed;
     bottom: 0;
-    margin-left: -10px ;
-    
-
-    
+    margin-left: -10px;
 }
 
 .insta {
-
     height: 40px;
     position: fixed;
     bottom: 30;
     left: 380;
-    
 }
 
 .google {
-
     height: 40px;
     position: fixed;
     bottom: 30;
     left: 600;
 }
 
-.elér {
-
+.eler {
     color: white;
     font-size: 30px;
-
     position: fixed;
     left: 10;
     bottom: 5;
-
 }
 
 .instasz {
-
     color: white;
     font-size: 20px;
     text-decoration: 0;
-
     position: fixed;
     bottom: 40;
     left: 280;
-
 }
 
 .googlesz {
-
     color: white;
     font-size: 20px;
     text-decoration: 0;
-    
     position: fixed;
     bottom: 40;
     left: 480;
